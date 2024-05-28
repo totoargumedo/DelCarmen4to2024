@@ -1,0 +1,31 @@
+h1 {
+  background-color: aqua;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+}
+
+.cajaGrande {
+  width: 600px;
+  height: 170px;
+  background-color: orange;
+  border: solid red 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 30px;
+}
+
+.caja1 {
+  width: 80px;
+  height: 80px;
+  background-color: blue;
+  margin-bottom: 5px;
+}
+
+.caja2 {
+  width: 80px;
+  height: 80px;
+  background-color: black;
+}
